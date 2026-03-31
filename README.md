@@ -1,3 +1,7 @@
-# hackathons
+# Hackathons
 Repo for hackathon contributors to showcase their Snow Leoprd hackathon demos
-## [March 30. 2026] EC500+Snow Leopard Hackathon 
+
+## [March 30, 2026] EC500+Snow Leopard Hackathon 
+* **Team/Project Name** - [repo link](link)
+   * Team member names:
+* 
