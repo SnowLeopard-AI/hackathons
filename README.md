@@ -6,6 +6,13 @@ Repo for hackathon contributors to showcase their Snow Leoprd hackathon demos
    * Team member names: Daigen Burton, Luke Parrella, Trac Nguyen
 * **Team/Project Name** - [repo link](link)
    * Team member names:
+
+* **NestScout** - [NestScout](https://github.com/RoyGminChae/Snow-Leopard-Hackathon)
+  * Team member names:
+  * Gyoungmin Chae
+  * Chris Miyai
+  * Brady Cieslak
+  * Russell Joarder
 * **pantry_pal** - [repo link](https://github.com/tylrnguyen/pantry_pal)
   * Team member names: Ryan Malone, Tyler Nguyen, Nathan Strahs, Alexander Hack
 * **PK** - (https://github.com/kliu3816/Kevin_Pranav_hackathon/tree/main)
