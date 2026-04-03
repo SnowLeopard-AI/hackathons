@@ -6,3 +6,6 @@ Repo for hackathon contributors to showcase their Snow Leoprd hackathon demos
    * Team member names:
 * **PK** - (https://github.com/kliu3816/Kevin_Pranav_hackathon/tree/main)
 *  * Team member names: Kevin Liu and Pranav Shrihari
+* **Leopard Lens (Team Bet All On Green)** - [https://github.com/dzokha-true/BetAll-OnGreen](link)
+   * Team member names: Varsha Singh, Vanshika Chaddha, Zhakhangir Mamayev, Owen Jiang
+* 
